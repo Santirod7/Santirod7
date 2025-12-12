@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Santiago Rodriguez 👋</h1>
-<h3 align="center">Desarrollador Full Stack 🚀</h3>
+<h3 align="center">Desarrollador Full Stack MERN 🚀</h3>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -9,8 +9,7 @@
 
 ## 😎 Sobre mi:
 - Desarrollador Full Stack, educación en Rolling Code
-- Estudiante de desarrollo de aplicaciones en CoderHouse
-- Emprendedor en Terra Vida 🌱, Venta de plantines. Cuida el Mundo
+- Actualmente desarrollando curso avanzado en Backend en CoderHouse
 
 ## 💻 Lenguajes y frameworks:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
